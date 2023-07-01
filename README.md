@@ -2,10 +2,18 @@
 <h3 align="center">I'm student at 42 Istanbul. </h3>
 <img align="center" alt="Coding" width="700" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
+<div align="center">
+
+### Hi 👋, I'm Yağmur
+
+***I'm student at 42 Istanbul.*** 📝
+  
+<img align="center" alt="Coding" width="700" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+
+<div align="left">
+  
 - 🔭 I’m currently working on **Libft**
 - 🌱 I’m currently learning **C**
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
