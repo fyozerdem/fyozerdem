@@ -7,16 +7,17 @@
   
 <img align="center" alt="Coding" width="700" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
+<div align="left">
 > 🔭 I’m currently working on **Libft**\
 > 🌱 I’m currently learning **C** \
 <div align="left">
+
   
 <details>
   <summary> My 42 Details </b> - current activity </summary>
 
-[Link To My 42Intra](https://profile.intra.42.fr/users/fozerdem)
 
-[![prossi's 42 stats](https://badge.mediaplus.ma/darkblue/fozerdem?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![fozerdem's 42 stats](https://badge.mediaplus.ma/darkblue/fozerdem?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </details>
 
