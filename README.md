@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağmur</h1>
 <h3 align="center">I'm student at 42 Istanbul. </h3>
-<img align="center" alt="Coding" width="900" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="center" alt="Coding" width="700" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 - 🔭 I’m currently working on **Libft**
 - 🌱 I’m currently learning **C**
