@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağmur</h1>
 <h3 align="center">I'm student at 42 Istanbul. </h3>
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=fyozerdem&](https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif)"></p>
+<p><img align="center" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fyozerdem&label=Profile%20views&color=0e75b6&style=flat" alt="fyozerdem" /> </p>
 
