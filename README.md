@@ -2,7 +2,7 @@
 Hi there, I'm Yağmur👋
 ---------------------
 
-<img alt="Coding" width="500" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
+<img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
 * 🔭 I’m currently working on **Libft**
