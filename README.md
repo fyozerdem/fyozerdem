@@ -12,7 +12,6 @@
 > 🔭 I’m currently working on **Libft**\
 > 🌱 I’m currently learning **C** 
 
-<div align="left">
 
   
 <details>
