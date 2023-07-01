@@ -8,8 +8,8 @@
 <img align="center" alt="Coding" width="500" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
-
-- 🔭 I’m currently working on **Libft**\
+    
+- 🔭 I’m currently working on **Libft**
 - 🌱 I’m currently learning **C** 
 
 
