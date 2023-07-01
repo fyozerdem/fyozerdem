@@ -5,7 +5,7 @@
 
 ***I'm student at 42 Istanbul.*** 👩🏻‍💻
   
-<img align="center" alt="Coding" width="700" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="center" alt="Coding" width="500" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
 
