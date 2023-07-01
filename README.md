@@ -2,18 +2,11 @@
 Hi there, I'm Yağmur👋
 ---------------------
 
-<img alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
+<img alt="Coding" width="500" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
 * 🔭 I’m currently working on **Libft**
 * 🌱 I’m currently learning **C**
-<details>
-  <summary> My 42 Details - <b>current activity</b> </summary>
-
-
-[![fozerdem's 42 stats](https://badge.mediaplus.ma/darkblue/fozerdem?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</details>
 
 
 -----------------------------
@@ -32,5 +25,14 @@ Hi there, I'm Yağmur👋
 <p align="left">
    <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=fyozerdem&show_icons=true&theme=radical" />
 </p>
+
+## 📈 My 42 status
+
+<p align="left">
+
+  [![fozerdem's 42 stats](https://badge.mediaplus.ma/darkblue/fozerdem?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</p>
+
 
 ![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
