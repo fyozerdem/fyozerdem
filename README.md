@@ -28,5 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fyozerdem&show_icons=true&locale=en&layout=compact" alt="fyozerdem" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fyozerdem&show_icons=true&locale=en" alt="fyozerdem" /></p>
-
+-----------------------------
 ![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
