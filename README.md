@@ -1,5 +1,5 @@
 
-Hi there, I'm Yağmur👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=591A94&width=435&lines=Hi+there%2C+I'm+Ya%C4%9Fmur%F0%9F%91%8B" alt="Typing SVG" /></a>
 ---------------------
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
