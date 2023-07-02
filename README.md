@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=8728E1&width=435&lines=Hi+there%2C+I'm+Ya%C4%9Fmur+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=09B9E1&width=435&lines=Hi+there%2C+I'm+Ya%C4%9Fmur+%F0%9F%91%8B)](https://git.io/typing-svg)
 ---------------------
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
