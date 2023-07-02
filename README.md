@@ -1,13 +1,11 @@
 
 Hi there, I'm Yağmur👋
 ---------------------
-
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
 * 🔭 I’m currently working on **Libft**
 * 🌱 I’m currently learning **C**
-
 
 -----------------------------
 <h3 align="center">Languages and Tools:</h3>
@@ -36,3 +34,9 @@ Hi there, I'm Yağmur👋
 
 
 ![contributions](https://user-images.githubusercontent.com/99393019/206873716-60aacef7-7215-4d39-9f42-f09b568f2203.svg)
+
+<p align="center">
+	<img alt="fyozerdem's visitors" src="https://komarev.com/ghpvc/?username=fyozerdem&color=8c36db&style=flat&label=visitors" />
+	<img alt="fyozerdem's followers" src="https://img.shields.io/github/followers/fyozerdem?color=blueviolet" />
+	<img alt="fyozerdem's stars" src="https://img.shields.io/github/stars/fyozerdem?color=blueviolet" />
+</p>
