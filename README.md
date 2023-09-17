@@ -3,7 +3,7 @@
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
 * I'm student at 42 Istanbul. 👩🏻‍💻
-* 🔭 I’m currently working on **Minitalk**
+* 🔭 I’m currently working on **Push_swap**
 * 🌱 I’m currently learning **C**
 
 -----------------------------
