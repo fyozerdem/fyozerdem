@@ -2,9 +2,11 @@
 ---------------------
 <img alt="Coding" width="450" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" align="right"/>
 
-* I'm student at 42 Istanbul. 👩🏻‍💻
-* 🔭 I’m currently working on **Push_swap**
-* 🌱 I’m currently learning **C**
+👋 Hello! I'm Yağmur, a mathematics student based in Istanbul, and currently in my fourth year. I'm a passionate software developer with a keen interest in all things related to code and technology.
+
+🌐 Additionally, I'm constantly improving myself through bootcamps, learning new technologies, optimizing my projects, and staying up-to-date with the latest developments in the software world.
+
+💬 If you'd like to discuss software projects, technology, collaborate, or have any questions, please feel free to get in touch! I'm here to build and learn. 🚀
 
 -----------------------------
 <h3 align="center">Languages and Tools:</h3>
